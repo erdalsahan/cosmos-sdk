@@ -11,7 +11,7 @@
   <a href="https://pkg.go.dev/github.com/cosmos/cosmos-sdk">
     <img src="https://pkg.go.dev/badge/github.com/cosmos/cosmos-sdk.svg" alt="Go Reference">
   </a>
-  <a href="https://goreportcard.com/report/github.com/cosmos/cosmos-sdk">
+  <a href="https://goreportcard.com/report/github.com/cosmos/cosmos-sdk"> 
     <img alt="Go report card" src="https://goreportcard.com/badge/github.com/cosmos/cosmos-sdk" />
   </a>
   <a href="https://sonarcloud.io/summary/overall?id=cosmos_cosmos-sdk">
